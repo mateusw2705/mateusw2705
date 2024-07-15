@@ -1,8 +1,5 @@
 # Olá, eu sou Mateus Wagner da Silva 👋
 
-<div align="center">
-  <img src="https://github.com/mateusw2705/mateusw2705/blob/main/banner.png" alt="banner">
-</div>
 
 ## Sobre mim
 - 🌱 Atualmente atuando como  desenvolvedor **.NET**
